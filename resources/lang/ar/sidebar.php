@@ -1,0 +1,31 @@
+<?php
+
+return [
+	'lookups'=>'الجداول الرئيسية',
+	'academics'=>'جداول التقديم',
+	'academic_year'=>'الأعوام الدراسية',
+	'semester'=>'الفصول الدراسية',
+	'additional_course'=>'المقررات الزيادة',
+	'level'=>'المستويات الدراسية',
+	'program'=>'البرامج الدراسية',
+	'facilities'=>'جداول المرافق',
+	'university'=>'الجامعات',
+	'faculty'=>'الكليات',
+	'department'=>'الأقسام',
+	'major'=>'التخصصات الرئيسية',
+	'specialization'=>'التخصصات',
+	'admissions'=>'جداول التقديم',
+	'admission_status'=>'حالات التقديم',
+	'admissions_study_status'=>'حالات التسجيل',
+	'admission_documents'=>'مستندات التقديم',
+	'payment_type'=>'أنواع المدفوعات',
+	'militaries'=>'جداول التجنيد',
+	'military_status'=>'حالات التجنيد',
+	'military_area'=>'مناطق التجنيد',
+	'generics'=>'الجداول العامة',
+	'currency'=>'العملات',
+	'gender'=>'الانواع',
+	'governorate'=>'محافظات الولادة',
+	'ntionality'=>'الجنسيات',
+	'religion'=>'الأديان'
+];

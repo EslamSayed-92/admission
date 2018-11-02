@@ -1,0 +1,31 @@
+<?php
+
+return [
+	'lookups'=>'Lookup Tables',
+	'academics'=>'Academic Tables',
+	'academic_year'=>'Academic Years',
+	'semester'=>'Semesters',
+	'additional_course'=>'Aditional Courses',
+	'level'=>'Study Levels',
+	'program'=>'Study Programs',
+	'facilities'=>'Facilities Tables',
+	'university'=>'Universities',
+	'faculty'=>'Faculties',
+	'department'=>'Departments',
+	'major'=>'Majors',
+	'specialization'=>'Specializations',
+	'admissions'=>'Admission Tables',
+	'admission_status'=>'Admission Statuses',
+	'admissions_study_status'=>'Admission Study Statuses',
+	'admission_documents'=>'Admission Documents',
+	'payment_type'=>'Payment Types',
+	'militaries'=>'Military Tables',
+	'military_status'=>'Military Statuses',
+	'military_area'=>'Military Areas',
+	'generics'=>'Generic Tables',
+	'currency'=>'Currencies',
+	'gender'=>'Genders',
+	'governorate'=>'Birth Governorates',
+	'ntionality'=>'Nationalities',
+	'religion'=>'Religions'
+];

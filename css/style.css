@@ -1,0 +1,102 @@
+ html, body {
+    background-color: #fff;
+    font-family: Tahoma, Geneva, sans-serif !important;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+	min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+	min-height: 90vh; /* These two lines are counted as one :-)       */
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-top:15px;
+    margin-bottom: 30px;
+}
+
+form{
+	color:black;
+}
+input, select{
+	border-color: #7d7f82 !important;
+	color: #002f62 !important;
+}
+.center-block {
+  float:none;
+}
+
+
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 2%;
+  left: 41%;
+}
+
+.table-bordered th{
+  border-color: #bec2c5;
+}
+
+.btn-primary{
+  color: #FFF !important;
+}
+
+.wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar {
+    width: 250px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    z-index: 999;
+    background: #7386D5;
+    color: #fff;
+    transition: all 0.3s;
+}
+
